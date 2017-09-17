@@ -1,0 +1,32 @@
+{
+  "name": "adkit-install-apk-tutorial",
+  "version": "1.0.0",
+  "description": "Tutorial for installing apk on android device using adbkit",
+  "author": "Akarsh Seggemu",
+  "license": "MIT",
+  "bugs": {
+    "url": ""
+  },
+  "readme": "README.md",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "keywords": [
+    "adb",
+    "adbkit",
+    "android",
+    "logcat",
+    "monkey"
+  ],
+  "homepage": "",
+  "dependencies": {
+    "adbkit": "^2.11.0",
+    "bluebird": "^3.5.0",
+    "request": "^2.81.0",
+    "stream": "^0.0.2"
+  }
+}
